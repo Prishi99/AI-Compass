@@ -35,7 +35,7 @@ Follow the steps below to run AI Compass locally.
 ### Clone the repository
 
 ```
-git clone https://github.com/your-username/ai-compass.git
+git clone https://github.com/Prishi99/ai-compass.git
 cd ai-compass
 ```
 
